@@ -21,13 +21,3 @@
 
 ---
 
-## 🚀 **Live Demo (5 Minutes)**
-
-```bash
-git clone https://github.com/chinrichsen/charter-call-analyzer
-cd charter-call-analyzer
-pip install -r requirements.txt
-jupyter notebook demo.ipynb  # Run All Cells
-```
-
-**Results Preview**:
