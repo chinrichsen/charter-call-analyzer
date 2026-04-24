@@ -1,0 +1,101 @@
+call_id,transcript,duration,language
+1,payment issue. Customer very upset. Tech visit?,271.0,en
+2,Spanish: quiero mejorar el plan. Cliente satisfecho. Normal call.,524.0,es
+3,very upset no internet. Customer very upset. Tech visit?,297.0,es
+4,payment issue. Customer very upset. Wants credit.,188.0,en
+5,tech support needed. Customer satisfied. After storm.,144.0,en
+6,normal inquiry. Customer very upset. Repeated issues.,287.0,en
+7,cancel service please. Customer satisfied. Tech visit?,60.0,en
+8,,,es
+9,normal inquiry. Customer very upset. Tech visit?,485.0,en
+10,Spanish: soporte tecnico. Cliente muy molesto. Repeated issues.,458.0,es
+11,satisfied with service. Customer very upset. Repeated issues.,284.0,en
+12,Spanish: internet no funciona desde ayer. Cliente muy molesto. Wants credit.,244.0,es
+13,Spanish: cancelar servicio por favor. Cliente muy molesto. Wants credit.,307.0,es
+14,normal inquiry. Customer satisfied. Wants credit.,581.0,en
+15,,348.0,en
+16,wants to upgrade plan faster speeds. Customer very upset. Repeated issues.,409.0,en
+17,normal inquiry. Customer satisfied. Tech visit?,275.0,en
+18,payment issue. Customer satisfied. Wants credit.,307.0,en
+19,,377.0,en
+20,outage after storm wants credit. Customer very upset. Wants credit.,315.0,en
+21,internet outage after billing change. Customer satisfied. After storm.,,en
+22,tech support needed. Customer very upset. Normal call.,453.0,en
+23,internet outage after billing change. Customer very upset. Wants credit.,226.0,en
+24,billing dispute charged too much. Customer very upset. Tech visit?,553.0,en
+25,normal inquiry. Customer satisfied. Tech visit?,,en
+26,outage after storm wants credit. Customer very upset. Repeated issues.,308.0,es
+27,,352.0,en
+28,wants to upgrade plan faster speeds. Customer satisfied. Wants credit.,286.0,en
+29,internet outage after billing change. Customer very upset. Tech visit?,241.0,en
+30,very upset no internet. Customer satisfied. Normal call.,324.0,en
+31,service slow repeated drops. Customer satisfied. Tech visit?,406.0,en
+32,very upset no internet. Customer satisfied. Wants credit.,,en
+33,normal inquiry. Customer very upset. Wants credit.,225.0,en
+34,Spanish: problema con pago. Cliente satisfecho. Repeated issues.,257.0,es
+35,Spanish: apagon total despues tormenta. Cliente muy molesto. After storm.,,es
+36,,474.0,es
+37,,343.0,en
+38,service slow repeated drops. Customer very upset. Tech visit?,,en
+39,normal inquiry. Customer satisfied. Repeated issues.,224.0,en
+40,wants to upgrade plan faster speeds. Customer satisfied. Repeated issues.,405.0,en
+41,,366.0,en
+42,cancel service please. Customer very upset. Wants credit.,214.0,en
+43,payment issue. Customer very upset. Repeated issues.,85.0,en
+44,Spanish: apagon total despues tormenta. Cliente satisfecho. Wants credit.,153.0,es
+45,wants to upgrade plan faster speeds. Customer satisfied. Repeated issues.,219.0,en
+46,outage after storm wants credit. Customer satisfied. Wants credit.,439.0,en
+47,internet outage after billing change. Customer satisfied. Tech visit?,486.0,en
+48,tech support needed. Customer satisfied. Tech visit?,247.0,en
+49,service slow repeated drops. Customer satisfied. Repeated issues.,251.0,en
+50,,,en
+51,billing dispute charged too much. Customer satisfied. Wants credit.,301.0,es
+52,Spanish: internet no funciona desde ayer. Cliente satisfecho. Repeated issues.,411.0,es
+53,cancel service please. Customer satisfied. Tech visit?,237.0,es
+54,Spanish: apagon total despues tormenta. Cliente muy molesto. Wants credit.,413.0,es
+55,internet outage after billing change. Customer satisfied. Repeated issues.,271.0,en
+56,Spanish: servicio muy lento. Cliente muy molesto. Normal call.,402.0,es
+57,service slow repeated drops. Customer satisfied. Wants credit.,267.0,en
+58,very upset no internet. Customer satisfied. Normal call.,226.0,en
+59,internet outage after billing change. Customer satisfied. Repeated issues.,529.0,en
+60,cancel service please. Customer satisfied. Normal call.,427.0,en
+61,,84.0,en
+62,internet outage after billing change. Customer satisfied. Repeated issues.,,en
+63,Spanish: soporte tecnico. Cliente muy molesto. Normal call.,444.0,es
+64,tech support needed. Customer very upset. Tech visit?,156.0,en
+65,satisfied with service. Customer very upset. Normal call.,392.0,en
+66,internet outage after billing change. Customer satisfied. Normal call.,380.0,en
+67,service slow repeated drops. Customer satisfied. Repeated issues.,216.0,en
+68,,298.0,es
+69,service slow repeated drops. Customer satisfied. After storm.,60.0,en
+70,Spanish: problema con pago. Cliente satisfecho. After storm.,512.0,es
+71,Spanish: soporte tecnico. Cliente satisfecho. After storm.,262.0,es
+72,tech support needed. Customer very upset. After storm.,,en
+73,very upset no internet. Customer satisfied. After storm.,373.0,en
+74,Spanish: apagon total despues tormenta. Cliente muy molesto. Repeated issues.,462.0,es
+75,Spanish: apagon total despues tormenta. Cliente muy molesto. Normal call.,248.0,es
+76,normal inquiry. Customer very upset. After storm.,324.0,es
+77,Spanish: cancelar servicio por favor. Cliente satisfecho. After storm.,367.0,es
+78,,404.0,en
+79,,438.0,en
+80,service slow repeated drops. Customer very upset. Tech visit?,242.0,en
+81,Spanish: apagon total despues tormenta. Cliente muy molesto. Wants credit.,220.0,es
+82,satisfied with service. Customer satisfied. Normal call.,463.0,en
+83,tech support needed. Customer satisfied. After storm.,60.0,en
+84,,488.0,en
+85,,263.0,en
+86,cancel service please. Customer very upset. Normal call.,299.0,en
+87,cancel service please. Customer very upset. Tech visit?,218.0,es
+88,tech support needed. Customer very upset. Tech visit?,294.0,en
+89,Spanish: servicio muy lento. Cliente muy molesto. Tech visit?,452.0,es
+90,billing dispute charged too much. Customer satisfied. After storm.,392.0,en
+91,service slow repeated drops. Customer very upset. Wants credit.,359.0,en
+92,Spanish: problema con pago. Cliente satisfecho. Normal call.,310.0,es
+93,payment issue. Customer very upset. Repeated issues.,126.0,es
+94,cancel service please. Customer very upset. After storm.,,en
+95,Spanish: problema con pago. Cliente satisfecho. Repeated issues.,258.0,es
+96,outage after storm wants credit. Customer very upset. Normal call.,354.0,en
+97,internet outage after billing change. Customer satisfied. Normal call.,308.0,en
+98,,418.0,en
+99,tech support needed. Customer very upset. Wants credit.,356.0,en
+100,normal inquiry. Customer satisfied. Wants credit.,306.0,en
