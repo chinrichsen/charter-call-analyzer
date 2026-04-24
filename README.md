@@ -1,20 +1,23 @@
-# Fraud Analytics Portfolio: SQL → Power BI → Python ML
+# Charter Call Analyzer 🎯
 
-End-to-end fraud detection analysis using the Kartik Shenoy Credit Card Fraud dataset (1M+ transactions). Demonstrates **basic → intermediate → advanced → expert** techniques across three pillars critical for Fraud/AML roles.
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-Dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
+</div>
 
-## 🎯 Business Problem
-Credit card issuers lose billions annually to fraud. This project builds production-grade analytics—from raw SQL feature engineering to interactive Power BI dashboards to ML model scoring—all using realistic transaction data.
+---
 
-**Key Insights Generated:**
-- Top high-risk merchants and cards by fraud rate/loss
-- Time/amount/geo velocity rules for real-time alerting
-- ML model performance (precision/recall) on imbalanced fraud data
-- End-to-end pipeline from PostgreSQL → Power BI Python visuals
+## 🎯 **Purpose**
+**Real-time call transcript analysis** → **structured insights** for Charter agent routing.
 
-## 🛠️ Tech Stack
+- **100 synthetic calls** (15% NaN, bilingual EN/ES)
+- **Mock GPT-4o-mini** extracts: `issue`, `sentiment`, `action`, `summary`
+- **Outages**: 21% → auto-route to tech queue
+- **Cost**: **$0.75 per 1K calls**
 
-```
-PostgreSQL (Kartik Shenoy fraud dataset)  →  SQL (80+ queries)  →  Power BI (dashboards + DAX)  →  Python ML (XGBoost + SHAP)
-```
+---
+
