@@ -1,20 +1,25 @@
-# Fraud Analytics Portfolio: SQL → Power BI → Python ML
+--
 
-End-to-end fraud detection analysis using the Kartik Shenoy Credit Card Fraud dataset (1M+ transactions). Demonstrates **basic → intermediate → advanced → expert** techniques across three pillars critical for Fraud/AML roles.
+## 👨‍💼 **About the Author**
+**Carlos Hinrichsen**  
+Data Analytics | Python/SQL/Power BI | AML Fraud Specialist
 
-Dataset: https://www.kaggle.com/datasets/kartik2112/fraud-detection/data
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cehinrichsen)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chinrichsen)
 
-## 🎯 Business Problem
-Credit card issuers lose billions annually to fraud. This project builds production-grade analytics—from raw SQL feature engineering to interactive Power BI dashboards to ML model scoring—all using realistic transaction data.
+**Denver Metro** | **5 days onsite ready** | **CAMS candidate**
 
-**Key Insights Generated:**
-- Top high-risk merchants and cards by fraud rate/loss
-- Time/amount/geo velocity rules for real-time alerting
-- ML model performance (precision/recall) on imbalanced fraud data
-- End-to-end pipeline from PostgreSQL → Power BI Python visuals
+---
 
-## 🛠️ Tech Stack
+## 📄 **License**
+[MIT License](LICENSE) © 2026 Carlos Hinrichsen
 
-```
-PostgreSQL (Kartik Shenoy fraud dataset)  →  SQL (80+ queries)  →  Power BI (dashboards + DAX)  →  Python ML (XGBoost + SHAP)
-```
+---
+
+<div align="center">
+
+**Built for Charter Communications Interview**  
+*April 24, 2026 | Ready to contribute Day 1*  
+⭐ **Star if useful!**
+
+</div>
